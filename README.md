@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-- Oscar Herreros
+- Oscar Herreros Cañada
 - Laura Soler Úbeda
-- Antonio Navarro
+- Antonio Gabriel Navarro Puig
 
 ## Tema
 
